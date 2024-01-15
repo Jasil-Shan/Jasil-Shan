@@ -1,14 +1,13 @@
 # Hi there, I'm Jasil Shan! 👋
 
-I'm a passionate MERN stack developer with a love for creating web applications. Welcome to my GitHub profile! 👨‍💻
+I'm a passionate Self taught MERN stack developer with a love for creating web applications. Welcome to my GitHub profile! 👨‍💻
 
 ## 🚀 About Me
 
-- 💻 I'm currently working on [Your Current Project].
-- 🌱 I'm currently learning [Technology/Framework].
-- 👯 I'm looking to collaborate on open-source projects.
-- 💬 Ask me about JavaScript, React, MongoDB, or anything tech-related.
-- 📫 How to reach me: [Your Email Address]
+- 💻 I'm currently working on MERN Stack Projects.
+- 🌱 I'm currently learning Next.js.
+- 👯 I'm looking for role as Fullstack developer/Node developer/React Developer and to collaborate on open-source projects.
+- 💬 Ask me about JavaScript, React, Node, MongoDB, or anything tech-related.
 
 ## 🔧 Technologies & Tools
 
@@ -59,18 +58,8 @@ I'm a passionate MERN stack developer with a love for creating web applications.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=[Your LinkedIn Profile])](https://www.linkedin.com/in/[Your LinkedIn Profile])
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=[Your Twitter Profile])](https://twitter.com/[Your Twitter Profile])
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square&link=[Your Portfolio])](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mjshan/)](https://www.linkedin.com/in/mjshan/)
 
-
-## 🛠️ Projects
-
-Here are some of my highlighted projects:
-
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
 
 Feel free to explore my repositories for more!
 
