@@ -13,13 +13,7 @@ I'm a passionate Self taught MERN stack developer with a love for creating web a
 
 ### Frontend
 
-- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-- ![Daisy UI](https://img.shields.io/badge/-Daisy_UI-2B6CB0)
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![Daisy UI](https://img.shields.io/badge/-Daisy_UI-2B6CB0)
 
 ### Backend
 
