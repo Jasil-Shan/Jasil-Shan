@@ -4,9 +4,8 @@ I'm a passionate Self taught MERN stack developer with a love for creating web a
 
 ## 🚀 About Me
 
-- 💻 I'm currently working on MERN Stack Projects.
-- 🌱 I'm currently learning Next.js.
-- 👯 I'm looking for role as Fullstack developer/Node developer/React Developer and to collaborate on open-source projects.
+- 💻 I'm currently working on Full stack projects and App development
+- 🌱 I'm currently learning AI technologies.
 - 💬 Ask me about JavaScript, React, Node, MongoDB, or anything tech-related.
 
 ## 🔧 Technologies & Tools
